@@ -11,6 +11,13 @@
             "CustomHTTP\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "CustomHTTP\\CustomHTTPServiceProvider"
+            ]
+        }
+    },
     "license": "MIT",
     "authors": [
         {
