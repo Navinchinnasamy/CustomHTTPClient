@@ -1,6 +1,6 @@
 {
     "name": "navin/custom-http-client",
-    "description": "A simple Laravel Custom HTTP client package example.",
+    "description": "A simple Custom HTTP client package for Laravel applications.",
     "type": "library",
     "require": {
         "php": "^7.3 || ^8.0 || ^8.3",
@@ -10,5 +10,25 @@
         "psr-4": {
             "CustomHTTP\\": "src/"
         }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Navin Chinnasamy",
+            "email": "navinchinnasamy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "homepage": "https://github.com/Navinchinnasamy/CustomHTTPClient",
+    "keywords": [
+        "http",
+        "client",
+        "laravel",
+        "package"
+    ],
+    "support": {
+        "issues": "https://github.com/Navinchinnasamy/CustomHTTPClient/issues",
+        "source": "https://github.com/Navinchinnasamy/CustomHTTPClient"
     }
 }
