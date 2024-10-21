@@ -1,5 +1,5 @@
 {
-    "name": "navin/custom-http-client",
+    "name": "navinchinnasamy/custom-http-client",
     "description": "A simple Custom HTTP client package for Laravel applications.",
     "type": "library",
     "require": {
